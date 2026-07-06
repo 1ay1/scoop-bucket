@@ -1,6 +1,6 @@
 {
     "version": "0.2.5",
-    "description": "Blazing-fast Claude in your terminal â€” single static binary, sandboxed by default, one-command SSH airgap. C++26 alternative to claude-code.",
+    "description": "Blazing-fast Claude in your terminal — single static binary, sandboxed by default, one-command SSH airgap. C++26 alternative to claude-code.",
     "homepage": "https://github.com/1ay1/agentty",
     "license": "MIT",
     "architecture": {
