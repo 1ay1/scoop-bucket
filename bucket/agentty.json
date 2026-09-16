@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/1ay1/agentty/releases/download/v0.9.0/agentty-windows-x86_64.exe#/agentty.exe",
-            "hash": "7387349cbc9e218c79c16260f369e85f5f7fd5a134cf2931e9cce63860f41e11"
+            "hash": "253ec0e1d8a69d76a0b72953b86cc0ff2f2123dd81a32adbd5f0cbb5da631e76"
         }
     },
     "bin": "agentty.exe",
