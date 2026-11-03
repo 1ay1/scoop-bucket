@@ -1,12 +1,12 @@
 {
-    "version": "0.9.42",
+    "version": "0.9.43",
     "description": "Blazing-fast Claude in your terminal — single static binary, sandboxed by default, one-command SSH airgap. C++26 alternative to claude-code.",
     "homepage": "https://github.com/agentty-org/agentty",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agentty-org/agentty/releases/download/v0.9.42/agentty-windows-x86_64.exe#/agentty.exe",
-            "hash": "80edfaf92417347e205b9cb0bd42dbe0a804090d9b752c220edd2a01de4f7c41"
+            "url": "https://github.com/agentty-org/agentty/releases/download/v0.9.43/agentty-windows-x86_64.exe#/agentty.exe",
+            "hash": "eb7d1f38c5c55ae8cb53472d145f507ae874f946756a935bf599502d9eb559d9"
         }
     },
     "bin": "agentty.exe",
